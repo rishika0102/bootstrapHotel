@@ -243,3 +243,14 @@ p {
   color: black;
   font-size: 18px;
 }
+.head-section .notification {
+  margin:  0px 20px 0px 25px;
+  position:  relative;
+}
+.head-section .modal-title {
+  color:  white;
+}
+.head-section .form-group {
+  color:  white;
+}
+
