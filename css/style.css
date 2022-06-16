@@ -253,4 +253,7 @@ p {
 .head-section .form-group {
   color:  white;
 }
+.head-section .modal .modal-header .btn-close {
+  background-color:  white;
+}
 
